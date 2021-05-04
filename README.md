@@ -9,4 +9,4 @@
 再运行Game_Engine.py即可，引入了Map.py和Game.py，主要是调用遗传算法玩游戏，并对运行结果重新贪心，再写入存储文件。  
 `Game.py主要是游戏功能的实现`，输入地图信息和操作数组即可返回相应分数。  
 如图红框是对遗传算法的解后四步重新贪心选择。  
-![image](https://github.com/SmallBirdsLab/public/blob/main/%E5%8D%81%E6%AD%A5%E4%B8%87%E5%BA%A6_%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E5%8A%A0%E8%B4%AA%E5%BF%83/%E5%9B%BE/%E9%81%97%E4%BC%A0%E8%B4%AA%E5%BF%83%E8%BF%90%E7%AE%97%E7%BB%93%E6%9E%9C.png)
+![image](https://github.com/SmallBirdsLab/ButterflyEffect_GA_Greed/blob/main/%E5%9B%BE/%E9%81%97%E4%BC%A0%E8%B4%AA%E5%BF%83%E8%BF%90%E7%AE%97%E7%BB%93%E6%9E%9C.png)
